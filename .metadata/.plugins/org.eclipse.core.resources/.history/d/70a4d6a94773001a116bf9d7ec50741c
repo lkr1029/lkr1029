@@ -1,0 +1,5 @@
+package sh.study.springboot.domain;
+
+public class BookRepositroyTest {
+
+}

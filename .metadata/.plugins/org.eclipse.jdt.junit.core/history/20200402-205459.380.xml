@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BookServiceTest" project="spring-boot" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="sh.study.springboot.service.BookServiceTest" time="0.002" displayname="BookServiceTest" uniqueid="[engine:junit-vintage]/[runner:sh.study.springboot.service.BookServiceTest]">
+    <testcase name="testFindById" classname="sh.study.springboot.service.BookServiceTest" time="0.002" displayname="testFindById" uniqueid="[engine:junit-vintage]/[runner:sh.study.springboot.service.BookServiceTest]/[test:testFindById(sh.study.springboot.service.BookServiceTest)]"/>
+  </testsuite>
+</testrun>

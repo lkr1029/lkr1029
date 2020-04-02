@@ -1,0 +1,5 @@
+package sh.study.springboot.service;
+
+public class BookServiceTest {
+
+}

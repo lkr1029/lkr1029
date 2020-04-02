@@ -1,0 +1,15 @@
+package sh.study.springboot;
+
+import java.util.Optional;
+
+import sh.study.springboot.domain.Book;
+
+public class BookServiceimpl implements BookService {
+
+	@Override
+	public Optional<Book> findById(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
